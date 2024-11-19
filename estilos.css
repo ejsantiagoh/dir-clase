@@ -4,5 +4,6 @@ body{
 }
 h1{
 	font-size: 2em;
-	font-family: 'courirer';
+	font-family: 'arial';
+	margin:20px;
 }
